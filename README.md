@@ -1,4 +1,4 @@
-# Project-files of th prediction for sales
+# Predictions for sales
 The files used for the project and the script file.
 The repositories contains the 4 csvs used for prediction and the script.
 The script written by me in R, to aim the predictions is the "evopricingweekly2.R".
